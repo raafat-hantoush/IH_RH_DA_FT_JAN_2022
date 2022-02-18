@@ -1,4 +1,25 @@
-<!-- Yay, no errors, warnings, or alerts! -->
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 2.048 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β33
+* Fri Feb 18 2022 03:25:38 GMT-0800 (PST)
+* Source doc: Index_Jan_2022
+* Tables are currently converted to HTML tables.
+----->
+
 
 <div align="center">
 
@@ -58,168 +79,6 @@
 
 <table>
   <tr>
-   <td colspan="5" ><strong><h2>Week 6</h2></strong>
-<p>
-<strong>Week 6 | Day 5 `s Learning Objectives:</strong>
-<ul>
-
-<li>Weekly Recap
-
-<li>Working on the product
-
-<p>
-<strong>Week 6 | Day 4 `s Learning Objectives:</strong>
-<ul>
-
-<li>Unsupervised Learning
-
-<li>K-means Algorithm
-
-<li>Saving/Loading Model using Pickle
-
-<p>
-<strong>Week 6 | Day 3 `s Learning Objectives:</strong>
-<ul>
-
-<li>APIs.
-
-<li>Spotify API.
-
-<li>JSON format overview.
-
-<li>Restful APIs
-
-<p>
-<strong>Week 6 | Day 2 `s Learning Objectives:</strong>
-<ul>
-
-<li>Web Scraping multiple pages
-
-<li>Python modules
-
-<p>
-<strong>Week 6 | Day 1 `s Learning Objectives:</strong>
-<ul>
-
-<li>Git ignore
-
-<li>Web Scraping
-
-<li>HTML, CSS
-
-<li>Beautiful Soap
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Monday</strong>
-   </td>
-   <td><strong>Tuesday</strong>
-   </td>
-   <td><strong>Wednesday</strong>
-   </td>
-   <td><strong>Thursday</strong>
-   </td>
-   <td><strong>Friday</strong>
-<p>
-It is Friday!! 🥳😎✌️
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study] Gnod Song Recommender</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lUlUgGMvrk24IBBg9zVSr6bQsjGYs0wm/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Web Scraping</a>
-<p>
-<br>
-<p>
-<a href="https://flukeout.github.io/">[Activity] CSS Selector</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping.ipynb">[Notebook] Web Scraping Code Along</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Project Roadmap</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1l_yq7e0n13qONhLhr43sTCznWxP05C9u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project</a> 
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
-<p>
-<br>
-<p>
-[Code Along] Python Modules with VS Code
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1lKwvCn1j3QpXyBfxj7LdE6kiXHo2_tVa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] APIs</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lca6NwMuo6h05Xo64WjktE586vpfWZNI/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Spotipy</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Spotify_Structure.ipynb">[Notebook] Spotipy</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1lucZd2XQTkV1iQZh5CNVh0bo0tZDk323/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Clustering using K-means</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lvdjdQ6anVkHGxaxq5Xzszt5syrp83w4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] K-Means with Scikit-Learn</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lx_Xt2qdD4ZRczJ8HMQdfoMBjMGBOXWl/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1mWytiwOq3no4VY1l2NOyp_aDeeznXwbP/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
-<p>
-<br>
-<p>
-[Weekly Retro]
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
-   </td>
-  </tr>
-</table>
-
-
-<details>
-
-<summary>📅  &nbsp; Week 7 - Advanced ML Topics</summary>
-
-
-<table>
-  <tr>
    <td colspan="5" ><strong><h2>Week 7</h2></strong>
 <p>
 <strong>Week 7 | Day 5 `s Learning Objectives:</strong>
@@ -252,8 +111,6 @@ It is Friday!! 🥳😎✌️
 <p>
 <strong>Week 7 | Day 2 `s Learning Objectives:</strong>
 <ul>
-
-<li>PCA
 
 <li>Logistic regression 
 
@@ -315,11 +172,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1sbkM5fg-NJmwdkpV-bpLL0sExIWFn0Zz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] PCA</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
+   <td><a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
 <p>
 <br>
 <p>
@@ -327,15 +180,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Code_Along_Statistics_PCA.ipynb">[Notebook] PCA</a>
-<p>
-<br>
-<p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data%20Processing/Lab/Lab_PCA_Example.ipynb">[LAB] (Optional) PCA</a>
 <p>
 <br>
 <p>
@@ -369,7 +214,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
    </td>
-   <td>Kahoot
+   <td><a href="kahoot.it">Kahoot</a>
 <p>
 <br>
 <p>
@@ -1291,6 +1136,170 @@ It is Friday!! 🥳😎✌️
    <td>
    </td>
    <td>Presentations
+   </td>
+  </tr>
+</table>
+
+
+</details>
+
+<details>
+
+<summary>📅  &nbsp; Week 6 - Song Recommender </summary>
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong><h2>Week 6</h2></strong>
+<p>
+<strong>Week 6 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Weekly Recap
+
+<li>Working on the product
+
+<p>
+<strong>Week 6 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Unsupervised Learning
+
+<li>K-means Algorithm
+
+<li>Saving/Loading Model using Pickle
+
+<p>
+<strong>Week 6 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>APIs.
+
+<li>Spotify API.
+
+<li>JSON format overview.
+
+<li>Restful APIs
+
+<p>
+<strong>Week 6 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>Web Scraping multiple pages
+
+<li>Python modules
+
+<p>
+<strong>Week 6 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Git ignore
+
+<li>Web Scraping
+
+<li>HTML, CSS
+
+<li>Beautiful Soap
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Monday</strong>
+   </td>
+   <td><strong>Tuesday</strong>
+   </td>
+   <td><strong>Wednesday</strong>
+   </td>
+   <td><strong>Thursday</strong>
+   </td>
+   <td><strong>Friday</strong>
+<p>
+It is Friday!! 🥳😎✌️
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study] Gnod Song Recommender</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lUlUgGMvrk24IBBg9zVSr6bQsjGYs0wm/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Web Scraping</a>
+<p>
+<br>
+<p>
+<a href="https://flukeout.github.io/">[Activity] CSS Selector</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping.ipynb">[Notebook] Web Scraping Code Along</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Project Roadmap</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1l_yq7e0n13qONhLhr43sTCznWxP05C9u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project</a> 
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
+<p>
+<br>
+<p>
+[Code Along] Python Modules with VS Code
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1lKwvCn1j3QpXyBfxj7LdE6kiXHo2_tVa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] APIs</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lca6NwMuo6h05Xo64WjktE586vpfWZNI/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Spotipy</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Spotify_Structure.ipynb">[Notebook] Spotipy</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1lucZd2XQTkV1iQZh5CNVh0bo0tZDk323/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Clustering using K-means</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lvdjdQ6anVkHGxaxq5Xzszt5syrp83w4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] K-Means with Scikit-Learn</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lx_Xt2qdD4ZRczJ8HMQdfoMBjMGBOXWl/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1mWytiwOq3no4VY1l2NOyp_aDeeznXwbP/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
+<p>
+<br>
+<p>
+[Weekly Retro]
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
    </td>
   </tr>
 </table>
