@@ -1,25 +1,4 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 2.048 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Fri Feb 18 2022 03:25:38 GMT-0800 (PST)
-* Source doc: Index_Jan_2022
-* Tables are currently converted to HTML tables.
------>
-
+<!-- Yay, no errors, warnings, or alerts! -->
 
 <div align="center">
 
@@ -194,7 +173,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1e67Y9z4F_Wr1UmeoYp0FvaUdMF6zCPjF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
 <p>
