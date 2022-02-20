@@ -7,9 +7,7 @@ For this lab, we will be using the same dataset for the [customer analysis case 
 
 ### Instructions
 
-1. In this lab, we will model our data. Import sklearn `train_test_split` and separate the data.
-2. Try a simple linear regression with all the data to see whether we are getting good results.
-3. Great! Now define a function that takes a list of models and train (and tests) them so we can try a lot of them without repeating code.
-4. Use the function to check `LinearRegressor`,`Lasso`,`Ridge` and `KNeighborsRegressor`. 
-5. Use feature selection techniques to select subset of features to train the model with(if necessary).
-6. Check and discuss the results.
+1. Define a function that takes a list of models and train (and tests) them so we can try a lot of them without repeating code.
+2. Use the function to check `LinearRegressor`,`Lasso`,`Ridge` and `KNeighborsRegressor`. 
+3. Use feature selection techniques to select subset of features to train the model with(if necessary).
+4. Check and discuss the results.
