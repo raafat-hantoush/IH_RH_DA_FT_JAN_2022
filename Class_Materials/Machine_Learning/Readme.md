@@ -14,3 +14,4 @@
 + https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
 + https://www.jeremyjordan.me/hyperparameter-tuning/
 + https://www.ibm.com/cloud/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks
++ https://machinelearningmastery.com/distance-measures-for-machine-learning/#:~:text=Manhattan%20distance%20is%20calculated%20as,differences%20between%20the%20two%20vectors.
