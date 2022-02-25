@@ -55,180 +55,6 @@
 
 **👉 **&nbsp;** Table of Contents**
 
-
-<table>
-  <tr>
-   <td colspan="5" ><strong><h2>Week 7</h2></strong>
-<p>
-<strong>Week 7 | Day 5 `s Learning Objectives:</strong>
-<ul>
-
-<li>Random Forest
-
-<li>Hyper Parameter Tuning
-
-<li>ML Frequent Problems
-
-<li>Recap
-
-<p>
-<strong>Week 7 | Day 4 `s Learning Objectives:</strong>
-<ul>
-
-<li>Cross Validation
-
-<li>Handling Imbalanced Data
-
-<li>Bias and Variance Tradeoff
-
-<p>
-<strong>Week 7 | Day 3 `s Learning Objectives:</strong>
-<ul>
-
-<li>Decision Trees
-
-<p>
-<strong>Week 7 | Day 2 `s Learning Objectives:</strong>
-<ul>
-
-<li>Logistic regression 
-
-<li>Evaluating Classification models
-
-<p>
-<strong>Week 7 | Day 1 `s Learning Objectives:</strong>
-<ul>
-
-<li>Feature Selection
-
-<li>KNN
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Monday</strong>
-   </td>
-   <td><strong>Tuesday</strong>
-   </td>
-   <td><strong>Wednesday</strong>
-   </td>
-   <td><strong>Thursday</strong>
-   </td>
-   <td><strong>Friday</strong>
-<p>
-It is Friday!! 🥳😎✌️
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://docs.google.com/presentation/d/1s_k1vwvITN6xQfBEpTAOCmnJq7XgeeV_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Feature Selection</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1e4iNB5vLgFWKgLfjiwJpQdk-n4zql7lo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] KNN</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Code_Along_Data_PreProcessing_Feature_Selection.ipynb">[Notebook] Feature Selection</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Feature_Selection_P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1e1kUeclxo7OUaRBc0-rZsSdKIrbd_Yjc/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Evaluating Classification Models</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1dpBvJkQ_NxPUArxR85frcYNy8U4e1j0V/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Decision Trees</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Decision_Trees.ipynb">[Notebook] Decision Trees</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1e67Y9z4F_Wr1UmeoYp0FvaUdMF6zCPjF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1eQe1GllJzTzLWBNQrCm9MkSG10gDGy9h/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Cross_Validation.ipynb">[Notebook] Cross Validation</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
-   </td>
-   <td><a href="kahoot.it">Kahoot</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1eRhl75IclQ4W989nRPgNYMDIzXgx9pCx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1drkfcuXT4s2da_okWlNQKLBFnEb2FYwD/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Ensemble Methods</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1se2v9JnXsqbmaOmux9N_oG0dFPDjcpOB/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Random_Forest.ipynb">[Notebook] Random Forest</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Random_Forest_Hyper_Parameter_Tunning.ipynb">[Notebook] Hyper Parameter Tuning</a>
-<p>
-<br>
-<p>
-[Weekly Retro]
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest & Hyper Parameter Tuning</a>
-   </td>
-  </tr>
-</table>
-
-
-</details>
-
 <details>
 
 <summary> 📅  &nbsp; Week 8 - Advanced-ML & Final Project</summary>
@@ -238,26 +64,16 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td colspan="5" ><strong><h2>Week 8</h2></strong>
 <p>
-<strong>Week 8 | Day 2 `s Learning Objectives:</strong>
-<ul>
-
-<li>NLP
-
-<li>Text Analytics
-
-<p>
 <strong>Week 8 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
-<li>Agile, MVP.
+<li>Agile
 
 <li>Final Project Kickoff.
 
 <li>Final Project Presentation Example.
 
-<li>Object Oriented Programming*.
-</li>
-</ul>
+<li>NLP
 </li>
 </ul>
    </td>
@@ -277,17 +93,15 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/10R8MRBZVApf8tJIJwL4TwUrh7oXaDna0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Agile/ Project Management</a>
+   <td>[Guest Speaker]
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/10R8MRBZVApf8tJIJwL4TwUrh7oXaDna0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Agile/ Project Management</a>
 <p>
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
-<p>
-<br>
-<p>
-Object Oriented Programming*
-   </td>
-   <td>[Guest Speaker]
 <p>
 <br>
 <p>
@@ -300,6 +114,8 @@ Object Oriented Programming*
 <br>
 <p>
 <a href="https://drive.google.com/file/d/1070RNgMiWUVDCHwqUPEjc0FFI49tMcCx/view?usp=sharing">[Data] NLP Data</a>
+   </td>
+   <td>Final Project Research
    </td>
    <td>Final Project Elevator Pitches
    </td>
@@ -314,12 +130,6 @@ Final Project Plan Submission
   </tr>
 </table>
 
-
-</details>
-
-<details>
-
-<summary> 📅  &nbsp;Week 9 - Final Project</summary>
 
 </details>
 
@@ -1283,5 +1093,189 @@ It is Friday!! 🥳😎✌️
   </tr>
 </table>
 
+
+</details>
+
+<details>
+
+<summary> 📅  &nbsp; Week 7 - Advanced-ML</summary>
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong><h2>Week 7</h2></strong>
+<p>
+<strong>Week 7 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Random Forest
+
+<li>Hyper Parameter Tuning
+
+<li>ML Frequent Problems
+
+<li>Recap
+
+<p>
+<strong>Week 7 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Cross Validation
+
+<li>Handling Imbalanced Data
+
+<li>Bias and Variance Tradeoff
+
+<p>
+<strong>Week 7 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Decision Trees
+
+<p>
+<strong>Week 7 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>Logistic regression 
+
+<li>Evaluating Classification models
+
+<p>
+<strong>Week 7 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Feature Selection
+
+<li>KNN
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Monday</strong>
+   </td>
+   <td><strong>Tuesday</strong>
+   </td>
+   <td><strong>Wednesday</strong>
+   </td>
+   <td><strong>Thursday</strong>
+   </td>
+   <td><strong>Friday</strong>
+<p>
+It is Friday!! 🥳😎✌️
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1s_k1vwvITN6xQfBEpTAOCmnJq7XgeeV_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Feature Selection</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1e4iNB5vLgFWKgLfjiwJpQdk-n4zql7lo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] KNN</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Code_Along_Data_PreProcessing_Feature_Selection.ipynb">[Notebook] Feature Selection</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Feature_Selection_P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1e1kUeclxo7OUaRBc0-rZsSdKIrbd_Yjc/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Evaluating Classification Models</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1dpBvJkQ_NxPUArxR85frcYNy8U4e1j0V/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Decision Trees</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Decision_Trees.ipynb">[Notebook] Decision Trees</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1e67Y9z4F_Wr1UmeoYp0FvaUdMF6zCPjF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1eQe1GllJzTzLWBNQrCm9MkSG10gDGy9h/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Cross_Validation.ipynb">[Notebook] Cross Validation</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
+   </td>
+   <td><a href="http://kahoot.it">Kahoot</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1eRhl75IclQ4W989nRPgNYMDIzXgx9pCx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1drkfcuXT4s2da_okWlNQKLBFnEb2FYwD/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Ensemble Methods</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1se2v9JnXsqbmaOmux9N_oG0dFPDjcpOB/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Random_Forest.ipynb">[Notebook] Random Forest</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Random_Forest_Hyper_Parameter_Tunning.ipynb">[Notebook] Hyper Parameter Tuning</a>
+<p>
+<br>
+<p>
+[Weekly Retro]
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest & Hyper Parameter Tuning</a>
+   </td>
+  </tr>
+</table>
+
+
+</details>
+
+<details>
+
+<summary> 📅  &nbsp;Week 9 - Final Project</summary>
 
 </details>
