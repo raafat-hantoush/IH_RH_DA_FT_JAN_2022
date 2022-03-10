@@ -57,84 +57,6 @@
 
 <details>
 
-<summary> 📅  &nbsp; Week 8 - Advanced-ML & Final Project</summary>
-
-
-<table>
-  <tr>
-   <td colspan="5" ><strong><h2>Week 8</h2></strong>
-<p>
-<strong>Week 8 | Day 1 `s Learning Objectives:</strong>
-<ul>
-
-<li>Agile
-
-<li>Final Project Kickoff.
-
-<li>Final Project Presentation Example.
-
-<li>NLP
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Monday</strong>
-   </td>
-   <td><strong>Tuesday</strong>
-   </td>
-   <td><strong>Wednesday</strong>
-   </td>
-   <td><strong>Thursday</strong>
-   </td>
-   <td><strong>Friday</strong>
-<p>
-It is Friday!! 🥳😎✌️
-   </td>
-  </tr>
-  <tr>
-   <td>[Guest Speaker]
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/10R8MRBZVApf8tJIJwL4TwUrh7oXaDna0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Agile/ Project Management</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1-stHAzqBlIHBCQCQKlzifGXWlkAGgDFl/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Natural Language Processing</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/NLP/Notebook_Code_Along_NLP.ipynb">[Notebook] NLP</a>
-<p>
-<br>
-<p>
-<a href="https://drive.google.com/file/d/1070RNgMiWUVDCHwqUPEjc0FFI49tMcCx/view?usp=sharing">[Data] NLP Data</a>
-   </td>
-   <td>Final Project Research
-   </td>
-   <td>Final Project Elevator Pitches
-   </td>
-   <td>Daily Standup
-<p>
-<br>
-<p>
-Final Project Plan Submission
-   </td>
-   <td>Daily Standup
-   </td>
-  </tr>
-</table>
-
-
-</details>
-
-<details>
-
 <summary>📅  &nbsp;Week 1 - Python, Pre-Work</summary>
 
 
@@ -1267,6 +1189,84 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest & Hyper Parameter Tuning</a>
+   </td>
+  </tr>
+</table>
+
+
+</details>
+
+<details>
+
+<summary> 📅  &nbsp; Week 8 - Advanced-ML & Final Project</summary>
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong><h2>Week 8</h2></strong>
+<p>
+<strong>Week 8 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Agile
+
+<li>Final Project Kickoff.
+
+<li>Final Project Presentation Example.
+
+<li>NLP
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Monday</strong>
+   </td>
+   <td><strong>Tuesday</strong>
+   </td>
+   <td><strong>Wednesday</strong>
+   </td>
+   <td><strong>Thursday</strong>
+   </td>
+   <td><strong>Friday</strong>
+<p>
+It is Friday!! 🥳😎✌️
+   </td>
+  </tr>
+  <tr>
+   <td>[Guest Speaker]
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/10R8MRBZVApf8tJIJwL4TwUrh7oXaDna0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Agile/ Project Management</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1-stHAzqBlIHBCQCQKlzifGXWlkAGgDFl/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Natural Language Processing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/NLP/Notebook_Code_Along_NLP.ipynb">[Notebook] NLP</a>
+<p>
+<br>
+<p>
+<a href="https://drive.google.com/file/d/1070RNgMiWUVDCHwqUPEjc0FFI49tMcCx/view?usp=sharing">[Data] NLP Data</a>
+   </td>
+   <td>Final Project Research
+   </td>
+   <td>Final Project Elevator Pitches
+   </td>
+   <td>Daily Standup
+<p>
+<br>
+<p>
+Final Project Plan Submission
+   </td>
+   <td>Daily Standup
    </td>
   </tr>
 </table>
